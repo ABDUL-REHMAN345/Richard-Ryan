@@ -32,13 +32,13 @@ To run **Richard Ryan** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/richard-ryan.git
+sudo git clone https://github.com/ABDUL-REHMAN345/Richard-Ryan.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/richard-ryan.git
+git clone https://github.com/ABDUL-REHMAN345/Richard-Ryan.git
 ```
 
 ### Contact
